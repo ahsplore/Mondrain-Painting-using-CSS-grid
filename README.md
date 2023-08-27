@@ -1,5 +1,6 @@
 # Mondrain-Painting-using-CSS-grid
-I created 'Composition No III, with Red, Blue, Yellow, and Black' using CSS Grid. This Mondrian-inspired artwork is a dynamic representation, using CSS recreating abstract art within a web interface.
+Piet Mondrian was a famous Dutch artist who, if he were alive today, might have loved using CSS Grid for his artwork. He was known for his abstract paintings, like 'Composition No III, with Red, Blue, Yellow, and Black,' which featured precise geometric shapes and primary colors.
+I have recreated 'Composition No III, with Red, Blue, Yellow, and Black' using CSS Grid. This Mondrian-inspired artwork is a dynamic representation, using CSS recreating abstract art within a web interface.
 
 # Screenshot:
 
